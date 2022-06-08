@@ -21,7 +21,6 @@ a:focus {
 
 .psize{
     font-size: 22px;
-    color: red;
     width: 350px;
     margin: auto;
     letter-spacing: -1px;
@@ -356,7 +355,6 @@ a:hover {
     font-weight: normal;
     font-weight: 600;
     line-height: 44px;
-    border: 2px solid red;
 }
 
 .navbar-brand img {
@@ -800,7 +798,6 @@ h4 {
 .portfolio-thumb {
     height: 270px;
     width: 270px;
-    border: 2px solid red;
     margin-bottom: 24px;
 }
 
